@@ -1,0 +1,62 @@
+#intro {
+  background: url("../##img/rawpixel-569600-unsplash.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.navbar {
+  min-height: 100px;
+}
+
+
+.top-nav-collapse {
+  background-color: #172145 !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #172145 !important;
+  }
+}
+
+#scroll_indicator {
+  padding-top: 20rem;
+}
+
+.h4 {
+  color: #182145;
+}
+
+.body1-responsive {
+  color: #182145;
+}
+
+.body2 {
+  color: #747a8f;
+}
+
+.hm-gradient .full-bg-img {
+  /*background: rgba(2, 169, 206, 0.7);
+  background: linear-gradient(45deg, rgba(2, 169, 206, 0.7), rgba(183, 26, 105, 0.7) 100%);*/
+  background: #fff;
+}
+
+@media (max-width: 450px) {
+  .margins {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
+
+
+.link {
+  color: #000;
+  text-decoration: underline;
+}
+
+#contact {
+  background: #172145 !important;
+}
