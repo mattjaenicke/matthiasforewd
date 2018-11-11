@@ -5355,7 +5355,7 @@ button:focus {
       background-color: #5a95f5 !important; }
   .btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled).active,
   .show > .btn-primary.dropdown-toggle {
-    background-color: #0d5fe6 !important; }
+    background-color: #b51a68 !important; }
 
 .btn-outline-primary {
   border: 2px solid #4285F4;
