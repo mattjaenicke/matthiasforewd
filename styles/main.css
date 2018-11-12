@@ -26,6 +26,12 @@
   padding-top: 20rem;
 }
 
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  img[src$=".svg"] {
+    width: 100%; 
+  }
+
+
 .h4 {
   color: #182145;
 }
